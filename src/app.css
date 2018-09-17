@@ -1,0 +1,16 @@
+ .banner {
+   margin: 10;
+   padding: 0;
+   background-image: "http://d1.awsstatic.com/Getting%20Started/v3/GSRC_Header_Tertiary.6e0c87b7ffe206a63f79176473c9b06055208069.png";
+ }
+
+
+ .projectConcepts {
+   background-color: rgba(255, 255, 255, 0.438);
+   width: 600px;
+   border-radius: 10px;
+   text-align: center;
+   color: rgb(59, 59, 59);
+
+
+ }
